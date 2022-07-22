@@ -39,3 +39,5 @@ Deployed [here](https://greenvillage.netlify.app/).
 - **[MIT license](https://github.com/GabrielFraga962/Responsive_Plants_Website_Design/blob/main/LICENSE)**;
 - Copyright 2022 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
 
+
+
